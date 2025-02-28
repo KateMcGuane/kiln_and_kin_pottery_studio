@@ -248,8 +248,7 @@ Please see [TESTING.md](TESTING.md) for a comprehensive list of tests performed.
   ### Code Used
 
   - [CI Full Template](https://github.com/Code-Institute-Org/ci-full-template) was used for creating the initial repository.
-  - Did you follow a video tutorial?
-  - Was there a template you used?
+  - Followed the Code Institutes's Boutique Ado as a guide to creating this ecommerce site.
 
 <details><summary>Favicon Code</summary>
 
